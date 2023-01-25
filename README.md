@@ -1,0 +1,2 @@
+# Rust-api
+A Warp é um framework web simples, mas poderoso que permite criar facilmente aplicações web escaláveis e performáticas. Ele é baseado em uma arquitetura de middleware, o que significa que você pode criar facilmente rotas e manipular requisições e respostas usando uma série de filtros. Além disso, ele suporta facilmente o gerenciamento de erros e tratamento de exceções, o que é uma vantagem em relação a outras bibliotecas
